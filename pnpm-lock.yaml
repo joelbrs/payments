@@ -51,6 +51,12 @@ importers:
       dotenv:
         specifier: ^16.4.5
         version: 16.4.5
+      graphql:
+        specifier: ^16.9.0
+        version: 16.9.0
+      graphql-relay:
+        specifier: ^0.10.2
+        version: 0.10.2(graphql@16.9.0)
       kcors:
         specifier: ^2.2.2
         version: 2.2.2
