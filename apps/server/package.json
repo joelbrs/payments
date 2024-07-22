@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@entria/graphql-mongo-helpers": "^1.1.2",
+    "@repo/types": "workspace:*",
     "dotenv": "^16.4.5",
     "kcors": "^2.2.2",
     "koa": "^2.15.3",
